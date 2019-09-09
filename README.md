@@ -1,6 +1,6 @@
 This is my first project with React.js.
 
-I have built this project with the help of Create React App. 
+I have built this project with the help of Create React App.
 
 With Create React App, I can run these scripts:
 
